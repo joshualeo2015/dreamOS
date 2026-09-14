@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Lock Screen Custom Colors -->
+    <color name="lockscreen_clock_color">#FF007F</color> <!-- Massive Neon Pink Clock -->
+    <color name="lockscreen_owner_info">#00FFFF</color> <!-- Electric Blue Custom Text -->
+    
+    <!-- Notification Panel Drop-Down Styling -->
+    <color name="notification_panel_background">#000000</color> <!-- Deep Contrast Black Panel -->
+    <color name="qs_tile_active_color">#00FFFF</color> <!-- Active Wi-Fi/Bluetooth icons glow Cyan -->
+    <color name="qs_tile_inactive_color">#555555</color> <!-- Inactive buttons stay dark gray -->
+    <color name="notification_row_background">#1A1A1A</color> <!-- Sleek card view for messages -->
+</resources>
