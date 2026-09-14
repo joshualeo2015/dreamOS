@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS DeskClock UI Overrides -->
+    <color name="clock_face_bg">#000000</color> <!-- Deep Black Clock Face -->
+    <color name="clock_hand_hour">#00FFFF</color> <!-- Electric Blue Hour Hand -->
+    <color name="clock_hand_minute">#FFFFFF</color> <!-- White Minute Hand -->
+    <color name="alarm_toggle_active">#FF007F</color> <!-- Neon Pink Toggle when Alarm is ON -->
+    <color name="alarm_card_bg">#1A1A1A</color> <!-- Sleek Dark Cards for Alarms -->
+    <color name="timer_countdown_glowing">#00FFFF</color> <!-- Glowing Cyan Numbers for Timer -->
+</resources>
