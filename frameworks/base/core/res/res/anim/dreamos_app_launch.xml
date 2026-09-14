@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DreamOS Custom Bouncy App Launch Animation Window -->
+<set xmlns:android="http://android.com"
+    android:shareInterpolator="false">
+    <!-- Scale animation to make apps pop out with a bouncy expansion effect -->
+    <scale
+        android:fromXScale="0.8" android:toXScale="1.0"
+        android:fromYScale="0.8" android:toYScale="1.0"
+        android:pivotX="50%" android:pivotY="50%"
+        android:duration="250"
+        android:interpolator="@android:anim/bounce_interpolator" />
+    <!-- Fade in smoothly at the same time -->
+    <alpha
+        android:fromAlpha="0.0" android:toAlpha="1.0"
+        android:duration="200" />
+</set>

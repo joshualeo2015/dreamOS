@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DreamOS Special Features Submenu Layout Mapping -->
+<PreferenceScreen xmlns:android="http://android.com"
+    android:title="DreamOS Customization Settings">
+
+    <PreferenceCategory android:title="Aesthetic Variables">
+        <SwitchPreference
+            android:key="neon_glow_mode"
+            android:title="Turbo Neon Glow Mode"
+            android:summary="Boosts layout element brightness to maximum contrast panel limits"
+            android:defaultValue="true" />
+            
+        <ListPreference
+            android:key="system_font_style"
+            android:title="Interface Typography Style"
+            android:summary="Choose between Retro Pixel, Clean Modern, or Neon Cyber fonts"
+            android:entries="@array/font_options"
+            android:entryValues="@array/font_values"
+            android:defaultValue="neon_cyber" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Motion Physics Engine">
+        <SwitchPreference
+            android:key="bouncy_gestures"
+            android:title="Bouncy App Windows"
+            android:summary="Enable physics-based screen pop animations when opening applications"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
