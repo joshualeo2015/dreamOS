@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Custom About Phone Welcome Screen Text -->
+    <string name="about_phone_welcome_title">Welcome to DreamOS</string>
+    <string name="about_phone_welcome_message">🚀 You are running DreamOS – Version 1.0!\n\nBuilt with passion, bright neon colors, and ultra-smooth animations. Thank you for reviving this device and keeping the dream alive. ✨</string>
+</resources>
