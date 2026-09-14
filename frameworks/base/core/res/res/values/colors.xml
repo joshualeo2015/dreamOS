@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dream_pink">#FF007F</color>
+    <color name="dream_cyan">#00FFFF</color>
+    <color name="dream_yellow">#FFD700</color>
+    <color name="statusbar_background">@color/dream_pink</color>
+    <color name="navigation_bar_background">#000000</color>
+    <color name="settings_background">@color/dream_cyan</color>
+    <color name="text_color_main">#FFFFFF</color>
+</resources>
