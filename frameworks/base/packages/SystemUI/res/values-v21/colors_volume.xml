@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Volume Slider Panel Custom Overrides -->
+    <color name="volume_panel_bg">#000000</color> <!-- High Contrast Dark Slider Box -->
+    <color name="volume_track_active">#FF007F</color> <!-- Neon Pink Fill Line for loudness -->
+    <color name="volume_track_inactive">#333333</color> <!-- Dark gray tracker background -->
+    <color name="volume_icon_tint">#00FFFF</color> <!-- Electric Blue Speaker/Bell Icon -->
+</resources>

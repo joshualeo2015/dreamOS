@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Calculator UI Custom Overrides -->
+    <color name="calc_display_bg">#000000</color> <!-- Black Number Display Area -->
+    <color name="calc_display_text">#FFFFFF</color> <!-- Crisp White Result Numbers -->
+    <color name="calc_numeric_button_bg">#1A1A1A</color> <!-- Dark Gray Number Keys -->
+    <color name="calc_numeric_button_text">#00FFFF</color> <!-- Electric Blue Number Labels -->
+    <color name="calc_operator_button_bg">#FF007F</color> <!-- Neon Pink Math Function Keys (+,-,x,=) -->
+    <color name="calc_operator_button_text">#FFFFFF</color> 
+</resources>
