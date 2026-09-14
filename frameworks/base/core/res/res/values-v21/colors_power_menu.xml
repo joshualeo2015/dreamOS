@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Global Actions / Power Menu Custom Overrides -->
+    <color name="global_actions_background">#1A1A1A</color> <!-- High Contrast Dark Popup Box -->
+    <color name="global_actions_text">#FFFFFF</color> <!-- Crisp White Option Text -->
+    
+    <!-- Option Button Highlight Effects -->
+    <color name="global_actions_poweroff_icon">#FF007F</color> <!-- Neon Pink Power Off Button -->
+    <color name="global_actions_reboot_icon">#00FFFF</color> <!-- Electric Blue Reboot Button -->
+    <color name="global_actions_airplane_icon">#FFD700</color> <!-- Sunny Yellow Airplane Mode Button -->
+</resources>

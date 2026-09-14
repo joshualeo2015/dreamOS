@@ -1,0 +1,5 @@
+# DreamOS Battery Charging Text Interface Color Mapping
+# Sets text overlays on the battery screen to match our signature color palette
+battery_text_color_hex = #00FFFF
+animation_pulse_glow_hex = #FF007F
+background_canvas_color_hex = #000000
