@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Storage and File Explorer Custom Palette Overrides -->
+    <color name="files_window_bg">#000000</color> <!-- High Contrast Dark Vault Canvas -->
+    <color name="files_folder_icon_tint">#00FFFF</color> <!-- Electric Blue Folder Graphic Elements -->
+    <color name="files_item_title_color">#FFFFFF</color> <!-- Crisp White Primary Filenames -->
+    <color name="files_sidebar_bg">#1A1A1A</color> <!-- Sleek Dark Left Navigation Rail -->
+    <color name="files_accent_highlight">#FF007F</color> <!-- Neon Pink Selection Highlights & Progress Bars -->
+</resources>

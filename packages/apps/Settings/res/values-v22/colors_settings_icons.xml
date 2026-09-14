@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Core Settings Category Icon Vectors -->
+    <color name="icon_category_wireless">#00FFFF</color> <!-- Wi-Fi & Internet Icons glow Cyan -->
+    <color name="icon_category_device">#FF007F</color> <!-- Display, Sound & Battery Icons glow Pink -->
+    <color name="icon_category_personal">#FFD700</color> <!-- Security & Location Icons glow Yellow -->
+    <color name="icon_category_system">#8A2BE2</color> <!-- Date, Time & About Phone Icons glow Purple -->
+</resources>
