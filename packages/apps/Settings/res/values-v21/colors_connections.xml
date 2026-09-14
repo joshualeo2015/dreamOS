@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Network Detail Popup Window Configurations -->
+    <color name="connection_dialog_bg">#1A1A1A</color> <!-- Sleek Dark Dialog Box -->
+    <color name="connection_list_divider">#FF007F</color> <!-- Neon Pink Dividers between items -->
+    
+    <!-- Signal strength bars and toggle text elements -->
+    <color name="signal_strength_active">#00FFFF</color> <!-- Electric Blue Signal/Wi-Fi bars -->
+    <color name="connection_text_header">#FFFFFF</color> 
+    <color name="connection_switch_track_on">#FF007F</color> <!-- Glowing Pink toggle track when enabled -->
+</resources>

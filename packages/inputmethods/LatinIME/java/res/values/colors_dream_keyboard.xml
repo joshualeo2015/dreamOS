@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DreamOS Custom Neon Keyboard Palette Overrides -->
+    <color name="keyboard_background">#000000</color> <!-- Solid Pitch Black Canvas -->
+    <color name="keyboard_key_functional_bg">#1A1A1A</color> <!-- Dark Slate for Shift/Enter keys -->
+    
+    <!-- Primary Key Text and Press Glow Triggers -->
+    <color name="keyboard_key_text_color">#00FFFF</color> <!-- Electric Blue Letters and Symbols -->
+    <color name="keyboard_key_functional_text_color">#FF007F</color> <!-- Neon Pink labels for Space/Enter -->
+    <color name="keyboard_key_feedback_pop_bg">#FF007F</color> <!-- Letters burst open in Pink when typed -->
+</resources>
